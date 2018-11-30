@@ -7,6 +7,8 @@ https://devblogs.nvidia.com/accelerate-video-analytics-deepstream-2/
 
 https://devblogs.nvidia.com/multi-camera-large-scale-iva-deepstream-sdk/
 
+https://devblogs.nvidia.com/deepstream-video-analytics-smart-cities/
+
 # install Gstreamer
 https://gstreamer.freedesktop.org/documentation/installing/on-linux.html
 ```
