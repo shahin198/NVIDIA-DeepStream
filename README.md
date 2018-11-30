@@ -9,5 +9,5 @@ apt-get install libgstreamer1.0-0 gstreamer1.0-plugins-base gstreamer1.0-plugins
 ```
 # Run
 `nvgstiva-app -c ${HOME}/configs/PGIE-FP16-CarType-CarMake-CarColor.txt``
-
+nvgstiva-app -c ${HOME}/configs/PGIE-FP16-CarType-CarMake-CarColor.txt     -i /home/nvidia/sample_720p.mp4
 ```
