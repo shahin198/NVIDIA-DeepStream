@@ -2,6 +2,11 @@
 
 https://developer.nvidia.com/embedded/deepstream-on-jetson-downloads
 
+# Tutorial
+https://devblogs.nvidia.com/accelerate-video-analytics-deepstream-2/
+
+https://devblogs.nvidia.com/multi-camera-large-scale-iva-deepstream-sdk/
+
 # install Gstreamer
 https://gstreamer.freedesktop.org/documentation/installing/on-linux.html
 ```
